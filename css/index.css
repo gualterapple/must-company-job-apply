@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    max-width: 1536px;
+    margin-left: 10rem;
+    margin-right: 10rem;
+
+}
+
+@media (max-width: 1024px) {
+    .container {
+        margin-left: 5rem; 
+        margin-right: 5rem;
+        padding: 0 1rem; 
+    }
+}
+
+@media (max-width: 768px) {
+    .container {
+        margin-left: 1rem; 
+        margin-right: 1rem;
+        padding: 0.5rem; 
+    }
+}
+

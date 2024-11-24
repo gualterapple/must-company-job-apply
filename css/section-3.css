@@ -3,7 +3,7 @@
 }
 
 .slide1 {
-    background-image: url('../assets/images/environment.png');
+    background-image: url('../assets/images/environment.jpg');
     background-size: auto;
     background-repeat: no-repeat;
     background-position: center;
@@ -12,7 +12,7 @@
 }
 
 .slide2 {
-    background-image: url('../assets/images/prefer.png');
+    background-image: url('../assets/images/prefer.jpg');
     background-size: auto;
     background-repeat: no-repeat;
     background-position: center;
@@ -21,7 +21,7 @@
 }
 
 .slide3 {
-    background-image: url('../assets/images/impression.png');
+    background-image: url('../assets/images/impression.jpg');
     background-size: auto;
     background-repeat: no-repeat;
     background-position: center;
@@ -30,7 +30,7 @@
 }
 
 .slide4 {
-    background-image: url('../assets/images/service.png');
+    background-image: url('../assets/images/service.jpg');
     background-size: auto;
     background-repeat: no-repeat;
     background-position: center;

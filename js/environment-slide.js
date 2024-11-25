@@ -41,7 +41,7 @@ function startSlideShow() {
 }
 
 // Inicia o slideshow automaticamente
-startSlideShow();
+//startSlideShow();
 
 
 function moveToCenter(clickedElement) {
